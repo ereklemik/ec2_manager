@@ -1,6 +1,6 @@
 # EC2 Instance Management Package
 
-### This package provides functions to manage Amazon Elastic Compute Cloud (EC2) instances using the Boto3 Python library.
+#### This package provides functions to manage Amazon Elastic Compute Cloud (EC2) instances using the Boto3 Python library.
 
 ### Installation
 
