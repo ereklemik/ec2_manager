@@ -7,7 +7,7 @@
 ### This package can be installed using pip:
 #### `pip install ec2-instance-management`
 
-### Importing the package
+##### Importing the package
 #### ` import ec2_instance_management`
 
 ### Starting an EC2 instance
